@@ -1,7 +1,7 @@
 # Cinema-Rest-Service
 JetBrains Academy Project
 
-A simple Spring REST service that will help you manage a small movie theatre(show the available seats, sell and refund tickets, and display the statistics of your venue). Handle HTTP requests in controllers, create services and respond with JSON objects.
+A simple Spring REST service that will help you manage a small movie theatre(show the available/booked seats, sell and refund tickets, change the price and display the statistics of your venue). Handle HTTP requests in controllers, create services and respond with JSON objects.
 
 To test the application, you should use Postman
 
